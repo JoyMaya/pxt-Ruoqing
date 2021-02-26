@@ -1,6 +1,6 @@
 {
 
-  "Ruoqing.RGB_Program|block": "RGB编程灯",
+  "Ruoqing.RGB_Program|block": "若晴RGB",
   "Ruoqing.Music|block": "音乐播放|%index",
   "Ruoqing.Servo|block": "舵机(180)|编号 %num|角度 %value",
   "Ruoqing.Servo2|block": "舵机(270)|编号 %num|角度 %value",
